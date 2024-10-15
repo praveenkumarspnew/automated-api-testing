@@ -1,0 +1,4 @@
+requests
+pytest
+openapi-python-client
+python-dotenv
